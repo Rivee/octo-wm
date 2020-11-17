@@ -1,10 +1,10 @@
 # octo-wm
-An personal wm written in Rust.
+A personal dynamic window manager written in Rust.
 
 TODO:
 -------
 * [ ] Simple config file
-* [ ] Automaticly config generation
+* [ ] Automatically config generation
 * [ ] Handle dual-screen
 * [ ] Setup a status bar (or else)
-* [ ] Eazy way to manadge windows (resize, spawn, stack mod...)
+* [ ] Easy way to manage windows (resize, spawn, stack mode...)
